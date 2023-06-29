@@ -1,0 +1,32 @@
+body {
+    background-color: #ffdfaf;
+    text-align: center;
+}
+
+.forma1 {
+    margin: auto;
+    text-align: center;
+}
+.forma1 input {
+    display: block;
+    margin: 20px auto;
+    font-size: 24px;
+}
+.forma2 {
+    margin: auto;
+    text-align: center;
+}
+.forma2 input {
+    display: block;
+    margin: 0 auto 20px auto;
+    font-size: 24px;
+    width: 70%;
+}
+
+.bolim a {
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 5px;
+    border-radius: 4px;
+}

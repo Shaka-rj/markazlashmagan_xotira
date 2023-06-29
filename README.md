@@ -1,4 +1,4 @@
-#Markazlashagan xotira
+# Markazlashagan xotira
 
 *Axborotlarni markazlashmagan holda saqlash uchun muljallangan tizim*
 
@@ -6,7 +6,7 @@
 
 Tizim mantig`ini tushunish oson bo'lishi uchun php dasturlash tilida yozilgan
  
- ####Ishlatish
+ #### Ishlatish
 admin - nomli jildda yangi hujjatlarni kiritish huquqiga ega tizim uchun
 xotira - nomli jildda hujjatarni saqlash uchun mulljallangan tizim
 mijoz - nomli jildda kerakli hujjatli haqiqiyligini tekshirib olish uchun

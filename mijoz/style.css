@@ -1,0 +1,68 @@
+body {
+    font-family: monospace;
+    text-align: center;
+}
+
+.forma {
+    width: 50%;
+    max-width: 500px;
+    margin: auto;
+}
+.forma input {
+    width: 80%;
+    font-size: 24px;
+    padding: 6px;
+    padding-left: 20px;
+    border-radius: 50vh 0 0 50vh;
+    border: 1px solid #000;
+    border-right: 0px;
+}
+.forma input:focus{
+    outline: none;
+}
+.forma button {
+    border-radius: 0 50vh 50vh 0;
+    width: 20%;
+    border: 1px solid #000;
+    border-left: 0px;
+    background-color: white;
+}
+.forma button img {
+    width: 26px;
+}
+.forma form {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+}
+.logo img {
+    width: 50%;
+}
+.yuklash a {
+    text-decoration: none;
+    font-size: 20px;
+    background-color: #ff9c00;
+    padding: 10px 20px;
+    border-radius: 50vh;
+    color: #000;
+}
+
+/*////*/
+.hujjat {
+    border: 1px solid #000;
+    text-align: left;
+    padding: 10px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .forma {
+        width: 90%;
+    }
+    .forma input {
+        font-size: 20px;
+    }
+    .logo img {
+        width: 80%;
+    }
+}
